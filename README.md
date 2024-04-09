@@ -1,5 +1,5 @@
 ##     <p align="center">Weather Applicatin</p>
-![photo_2024-04-06_17-06-101](https://github.com/EsayasA/blogpost/assets/123552892/f6c3b5ea-85fd-427d-89ee-b3203672deb1)
+<align ="center"![photo_2024-04-06_17-06-101](https://github.com/EsayasA/blogpost/assets/123552892/f6c3b5ea-85fd-427d-89ee-b3203672deb1)>
 
 
 
